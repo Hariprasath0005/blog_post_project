@@ -13,3 +13,4 @@ Installation Requirements (libraries)
 To exit the environment
   8. deactivate!
 
+![Screenshot 2024-07-10 204439](https://github.com/Hariprasath0005/blog_post_project/assets/160760689/9d127570-cbad-495a-86f8-67f0f3b161cd)
